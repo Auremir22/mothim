@@ -219,12 +219,12 @@ var screenMenu = {
 	geratorChoice: function () {
 		"use strict";
 		var $quizAvailable = [
-			['kanto', 151, 'http://i.imgur.com/PlTfpZ3.png', 'Nacional Dex', 'kanto'],
-			['johto', 99, 'http://i.imgur.com/PlTfpZ3.png', 'Nacional Dex', 'johto'],
-			['hoenn', 134, 'http://i.imgur.com/PlTfpZ3.png', 'Nacional Dex', 'hoenn'],
-			['sinnoh', 106, 'http://i.imgur.com/PlTfpZ3.png', 'Nacional Dex', 'sinnoh'],
-			['unova', 155, 'http://i.imgur.com/PlTfpZ3.png', 'Nacional Dex', 'unova'],
-			['kalos', 72, 'http://i.imgur.com/PlTfpZ3.png', 'Nacional Dex', 'kalos'],
+			['kanto', 151, 'https://i.imgur.com/PlTfpZ3.png', 'Nacional Dex', 'kanto'],
+			['johto', 99, 'https://i.imgur.com/PlTfpZ3.png', 'Nacional Dex', 'johto'],
+			['hoenn', 134, 'https://i.imgur.com/PlTfpZ3.png', 'Nacional Dex', 'hoenn'],
+			['sinnoh', 106, 'https://i.imgur.com/PlTfpZ3.png', 'Nacional Dex', 'sinnoh'],
+			['unova', 155, 'https://i.imgur.com/PlTfpZ3.png', 'Nacional Dex', 'unova'],
+			['kalos', 72, 'https://i.imgur.com/PlTfpZ3.png', 'Nacional Dex', 'kalos'],
 		];
 //			Em breve
 //

@@ -1,5 +1,5 @@
 /*Fonts*/
-@import url(&#39;https://fonts.googleapis.com/css?family=Fredoka+One&#39;);/*font-family: &#39;Fredoka One&#39;, cursive;*/
+@import url(https://fonts.googleapis.com/css?family=Fredoka+One;);/*font-family: &#39;Fredoka One&#39;, cursive;*/
 /*Animation*/
 .bounce {
 	animation: bounce 1000ms infinite;
@@ -199,7 +199,7 @@
 /*Kukui welcome*/
 #kukui-welcome {
 	position: fixed;
-	background: url(&#39;http://i.imgur.com/LeJnKkp.jpg&#39;) no-repeat center top;
+	background: url(https://i.imgur.com/LeJnKkp.jpg) no-repeat center top;
 	background-size: contain;
 	width: 100%;
 	height: 100%;
@@ -212,7 +212,7 @@
 	right: 70px;
 }
 .rotom-size-lg {
-	background: url(&#39;http://i.imgur.com/W2Zg2w3.png&#39;);
+	background: url(https://i.imgur.com/W2Zg2w3.png);
 	background-size: contain;
 	width: 100%;
 	height: 250px;
@@ -221,7 +221,7 @@
 	z-index: 1;
 }
 .rotoms-size-lg {
-	background: url(&#39;http://i.imgur.com/Yw8siJI.png&#39;);
+	background: url(https://i.imgur.com/Yw8siJI.png);
 	background-size: contain;
 	width: 100%;
 	height: 250px;
@@ -229,7 +229,7 @@
 	top: 0;
 }
 .contain-dialog {
-	background: url(&#39;http://i.imgur.com/ek2HJuk.png&#39;) no-repeat center top;
+	background: url(https://i.imgur.com/ek2HJuk.png) no-repeat center top;
 	position: absolute;
 	bottom: 0;
 	width: 100%;
@@ -251,7 +251,7 @@
 	position: absolute;
 	bottom: 43px;
 	right: 70px;
-	background: url(&quot;http://i.imgur.com/czyzcPc.png&quot;);
+	background: url(https://i.imgur.com/czyzcPc.png);
 	width: 24px;
 	height: 21px;
 	animation: bounce 1500ms infinite;
@@ -288,13 +288,13 @@
 #menu-dex {
 	display: none;
 	position: fixed;
-	background: url(&#39;http://i.imgur.com/NsB1VEc.png&#39;) no-repeat center bottom;
+	background: url(https://i.imgur.com/NsB1VEc.png) no-repeat center bottom;
 	background-size: cover;
 	width: 100%;
 	height: 100%;
 }
 .logo-dex {
-	background: url(&#39;http://i.imgur.com/VUJ4TfM.png&#39;) no-repeat center top;
+	background: url(https://i.imgur.com/VUJ4TfM.png) no-repeat center top;
 	height: 170px;
 	background-size: contain;
 }
@@ -314,7 +314,7 @@
 }
 .item-menu-dex {
 	position: relative;
-	background: url(&#39;http://i.imgur.com/fB8y2Mn.png&#39;) no-repeat #00a9bb;
+	background: url(https://i.imgur.com/fB8y2Mn.png) no-repeat #00a9bb;
 	margin: 20px 0;
 	height: 70px;
 	line-height: 2.6;
@@ -368,25 +368,25 @@
 	box-shadow: 0px 1px 7px -4px #000;
 }
 .item-choices.kanto {
-	background: url(http://i.imgur.com/WNZlVgj.jpg) no-repeat center;
+	background: url(https://i.imgur.com/WNZlVgj.jpg) no-repeat center;
 }
 .item-choices.johto {
-	background: url(http://i.imgur.com/vZXiIXb.jpg) no-repeat center;
+	background: url(https://i.imgur.com/vZXiIXb.jpg) no-repeat center;
 }
 .item-choices.hoenn {
-	background: url(http://i.imgur.com/q6bNc8i.jpg) no-repeat center;
+	background: url(https://i.imgur.com/q6bNc8i.jpg) no-repeat center;
 }
 .item-choices.sinnoh {
-	background: url(http://i.imgur.com/33ipXoT.jpg) no-repeat center;
+	background: url(https://i.imgur.com/33ipXoT.jpg) no-repeat center;
 }
 .item-choices.unova {
-	background: url(http://i.imgur.com/FORhj9X.jpg) no-repeat center;
+	background: url(https://i.imgur.com/FORhj9X.jpg) no-repeat center;
 }
 .item-choices.kalos {
-	background: url(http://i.imgur.com/3md3yLb.jpg) no-repeat center;
+	background: url(https://i.imgur.com/3md3yLb.jpg) no-repeat center;
 }
 .item-choices.alola {
-	background: url(http://i.imgur.com/zcKaZv2.jpg) no-repeat center;
+	background: url(https://i.imgur.com/zcKaZv2.jpg) no-repeat center;
 }
 .info-quiz {
 	position: absolute;
@@ -480,13 +480,13 @@
 	position: fixed;
 	width: 100%;
 	height: 100%;
-	background: url(http://i.imgur.com/txBZfYA.png) no-repeat center;
+	background: url(https://i.imgur.com/txBZfYA.png) no-repeat center;
 	background-position-y: -1155px;
 	overflow: hidden;
 }
 .dex-top {
 	position: fixed;
-	background: url(&#39;http://i.imgur.com/hJT4wBo.png&#39;) bottom center no-repeat;
+	background: url(https://i.imgur.com/hJT4wBo.png) bottom center no-repeat;
 	width: 100%;
 	height: 128px;
 	z-index: 3;
@@ -494,7 +494,7 @@
 .dex-bottom {
 	position: absolute;
 	top: 682px;
-	background: url(&#39;http://i.imgur.com/WxaQaci.png&#39;) top center no-repeat;
+	background: url(https://i.imgur.com/WxaQaci.png) top center no-repeat;
 	width: 100%;
 	height: 682px;
 	z-index: -1;
@@ -513,7 +513,7 @@
 	position: fixed;
 	bottom: 0;
 	left: 0;
-	background: url(&#39;http://i.imgur.com/LIzTdFS.png&#39;) no-repeat left, url(&#39;http://i.imgur.com/svIpcTi.png&#39;) no-repeat right, url(&#39;http://i.imgur.com/TBxUV5Z.png&#39;) repeat-x;
+	background: url(https://i.imgur.com/LIzTdFS.png) no-repeat left, url(https://i.imgur.com/svIpcTi.png) no-repeat right, url(https://i.imgur.com/TBxUV5Z.png) repeat-x;
 	background-size: contain;
 	height: 95px;
 	width: calc(100% - 20px);
@@ -528,7 +528,7 @@
 	position: absolute;
 	top: -58px;
 	display: block;
-	background: url(&#39;http://i.imgur.com/5SYrMmZ.png&#39;) no-repeat;
+	background: url(https://i.imgur.com/5SYrMmZ.png) no-repeat;
 	background-size: contain !important;
 	height: 65px;
 	width: 58px;
@@ -572,7 +572,7 @@
 	border-radius: 37px;
 }
 .contain-pokemon {
-	background: url(http://i.imgur.com/LksGus9.png) no-repeat center;
+	background: url(https://i.imgur.com/LksGus9.png) no-repeat center;
 	background-size: contain;
 	height: 150px;
 	width: 100%;
@@ -580,7 +580,7 @@
 	padding-top: 18px;
 }
 .icon-pokemon {
-	background: url(&#39;https://lh3.googleusercontent.com/-OLItr-XPM9A/V8b9Y6ged_I/AAAAAAAABhY/-wXv1WyX_hMdcVhClW30OBWffURgx8neQCEw/w4032-h3512-p/all%2Bpokemon%2Bshuffle.png&#39;) no-repeat;
+	background: url('https://lh3.googleusercontent.com/-OLItr-XPM9A/V8b9Y6ged_I/AAAAAAAABhY/-wXv1WyX_hMdcVhClW30OBWffURgx8neQCEw/w4032-h3512-p/all%2Bpokemon%2Bshuffle.png') no-repeat;
 	height: 135px;
 	width: 135px;
 	margin: 0px auto;
@@ -701,7 +701,7 @@
 }
 .letter-x {
 	transition: all .5s linear;
-	background: #f5f5f5 url(http://i.imgur.com/LksGus9.png) no-repeat center;
+	background: #f5f5f5 url(https://i.imgur.com/LksGus9.png) no-repeat center;
 	background-size: contain;
 	width: 50px;
 	height: 60px;
@@ -719,7 +719,7 @@
 }
 .letter-x:hover {
 	transition: all .5s linear;
-	background: #ccc url(http://i.imgur.com/LksGus9.png) no-repeat center !important;
+	background: #ccc url(https://i.imgur.com/LksGus9.png) no-repeat center !important;
 	border: 2px solid #36393D;
 	background-size: contain !important;
 }
@@ -767,7 +767,7 @@
 }
 .button-action {
 	transition: all .5s linear;
-	background: #5582B8 url(http://i.imgur.com/LksGus9.png) no-repeat center;
+	background: #5582B8 url(https://i.imgur.com/LksGus9.png) no-repeat center;
 	background-size: contain;
 	height: 70px;
 	width: 70px;
@@ -784,7 +784,7 @@
 }
 #jump:hover {
 	transition: all .5s linear;
-	background: #5A2990 url(http://i.imgur.com/LksGus9.png) no-repeat center !important;
+	background: #5A2990 url(https://i.imgur.com/LksGus9.png) no-repeat center !important;
 	border: 2px solid #411F67;
 	background-size: contain !important;
 	animation: bounce 500ms infinite;
@@ -808,7 +808,7 @@
 }
 #abdicate:hover {
 	transition: all .5s linear;
-	background: #BB222B url(http://i.imgur.com/LksGus9.png) no-repeat center !important;
+	background: #BB222B url(https://i.imgur.com/LksGus9.png) no-repeat center !important;
 	border: 2px solid #ca2730;
 	background-size: contain !important;
 	animation: tada 500ms infinite;
@@ -818,7 +818,7 @@
 #myAnswer {
 	display: none;
 	position: fixed;
-	background: url(&#39;http://i.imgur.com/aQrd1yh.png&#39;) bottom right no-repeat, url(&#39;../img/background/Worker_Yellow_Adventures.jpg&#39;) top left no-repeat #fff;
+	background: url(https://i.imgur.com/aQrd1yh.png) bottom right no-repeat, url(../img/background/Worker_Yellow_Adventures.jpg) top left no-repeat #fff;
 	background-size: auto;
 	height: 100%;
 	width: 100%;
@@ -864,7 +864,7 @@
 	float: left;
 }
 .thumb-resp {
-	background: url(&#39;https://lh3.googleusercontent.com/-OLItr-XPM9A/V8b9Y6ged_I/AAAAAAAABhY/-wXv1WyX_hMdcVhClW30OBWffURgx8neQCEw/w4032-h3512-p/all%2Bpokemon%2Bshuffle.png&#39;);
+	background: url('https://lh3.googleusercontent.com/-OLItr-XPM9A/V8b9Y6ged_I/AAAAAAAABhY/-wXv1WyX_hMdcVhClW30OBWffURgx8neQCEw/w4032-h3512-p/all%2Bpokemon%2Bshuffle.png');
 	width: 135px !important;
 	height: 135px;
 	margin: 0 !important;
@@ -920,7 +920,7 @@
 	padding-left: 5px;
 }
 .share-score {
-	background: url(&#39;http://i.imgur.com/C5BZfL0.png&#39;) left no-repeat #3b5998;
+	background: url(https://i.imgur.com/C5BZfL0.png) left no-repeat #3b5998;
 	margin: 20px auto;
 	padding: 15px;
 	text-align: center;
@@ -942,7 +942,7 @@
 	cursor: pointer;
 }
 .avatar-user {
-	background: url(&#39;https://lh3.googleusercontent.com/-OLItr-XPM9A/V8b9Y6ged_I/AAAAAAAABhY/-wXv1WyX_hMdcVhClW30OBWffURgx8neQCEw/w4032-h3512-p/all%2Bpokemon%2Bshuffle.png&#39;) no-repeat #fff;
+	background: url('https://lh3.googleusercontent.com/-OLItr-XPM9A/V8b9Y6ged_I/AAAAAAAABhY/-wXv1WyX_hMdcVhClW30OBWffURgx8neQCEw/w4032-h3512-p/all%2Bpokemon%2Bshuffle.png') no-repeat #fff;
 	height: 160px;
 	width: 160px;
 	margin: 150px auto 10px;
@@ -985,7 +985,7 @@
 #settings {
 	display: none;
 	position: fixed;
-	background: url(&#39;http://i.imgur.com/0PUmNR7.png&#39;) repeat, url(http://i.imgur.com/6pFZYnM.png) left no-repeat #474746;
+	background: url(https://i.imgur.com/0PUmNR7.png) repeat, url(https://i.imgur.com/6pFZYnM.png) left no-repeat #474746;
 	background-size: auto;
 	width: 100%;
 	height: 100%;
@@ -1075,7 +1075,7 @@
 #profile {
 	display: none;
 	position: fixed;
-	background: url(&#39;http://i.imgur.com/0PUmNR7.png&#39;) repeat, url(http://i.imgur.com/FtUV3JS.png) left no-repeat #2C3031;
+	background: url(https://i.imgur.com/0PUmNR7.png) repeat, url(https://i.imgur.com/FtUV3JS.png) left no-repeat #2C3031;
 	background-size: auto;
 	width: 100%;
 	height: 100%;
@@ -1186,7 +1186,7 @@
 #achievements {
 	display: none;
 	position: fixed;
-	background: url(&#39;http://i.imgur.com/0PUmNR7.png&#39;) repeat, url(http://i.imgur.com/xFFUfhG.png) left no-repeat #FEF4F1;
+	background: url(https://i.imgur.com/0PUmNR7.png) repeat, url(https://i.imgur.com/xFFUfhG.png) left no-repeat #FEF4F1;
 	background-size: auto;
 	width: 100%;
 	height: 100%;
@@ -1209,7 +1209,7 @@
 .item-Achievements {
 	width: 166px;
 	height: 166px;
-	background: url(http://i.imgur.com/tRPH88Q.jpg) no-repeat #383d4e;
+	background: url(https://i.imgur.com/tRPH88Q.jpg) no-repeat #383d4e;
 	background-position: 0 0;
 	margin: 10px;
 	border-radius: 100%;
@@ -1222,7 +1222,7 @@
 .item-views-Achievements {
 	width: 166px;
 	height: 166px;
-	background: url(http://i.imgur.com/tRPH88Q.jpg) no-repeat #383d4e;
+	background: url(https://i.imgur.com/tRPH88Q.jpg) no-repeat #383d4e;
 	background-position: 0 0;
 	margin: 15px auto;
 	border-radius: 100%;
@@ -1257,7 +1257,7 @@
 	z-index: 50;
 }
 .contain-dialog-tutorial {
-	background: url(&#39;http://i.imgur.com/ek2HJuk.png&#39;) no-repeat center top;
+	background: url(https://i.imgur.com/ek2HJuk.png) no-repeat center top;
 	position: absolute;
 	bottom: 0;
 	width: 100%;
@@ -1295,7 +1295,7 @@
 	right: 0;
 	left: 0;
 	display: none;
-	background: url(&#39;http://i.imgur.com/0PUmNR7.png&#39;) repeat, url(http://i.imgur.com/pGFJUuP.png) no-repeat #EFBC43;
+	background: url(https://i.imgur.com/0PUmNR7.png) repeat, url(https://i.imgur.com/pGFJUuP.png) no-repeat #EFBC43;
 	max-width: 90%;
 	min-height: 58%;
 	margin: 0 auto;
@@ -1312,7 +1312,7 @@
 	right: 0;
 	left: 0;
 	display: block;
-	background: url(http://i.imgur.com/0PUmNR7.png) repeat, url(http://i.imgur.com/exITVdM.png) no-repeat #EFBC43;
+	background: url(https://i.imgur.com/0PUmNR7.png) repeat, url(https://i.imgur.com/exITVdM.png) no-repeat #EFBC43;
 	max-width: 25%;
 	min-height: 58%;
 	margin: 0 auto;
@@ -1338,7 +1338,7 @@
 	content: &#39;&#39;;
 	display: block;
 	position: absolute;
-	background: url(&#39;http://i.imgur.com/fJ7HI5v.png&#39;) no-repeat;
+	background: url(https://i.imgur.com/fJ7HI5v.png) no-repeat;
 	background-size: contain;
 	width: 48px;
 	height: 55px;
@@ -1348,7 +1348,7 @@
 #about {
 	display: none;
 	position: absolute;
-	background: url(&#39;http://i.imgur.com/0PUmNR7.png&#39;) repeat, url(http://i.imgur.com/txBZfYA.png) no-repeat center;
+	background: url(https://i.imgur.com/0PUmNR7.png;) repeat, url(https://i.imgur.com/txBZfYA.png) no-repeat center;
 	height: 100%;
 	width: 100%;
 	animation: bilinear 30s infinite;
@@ -1388,7 +1388,7 @@
 	transition: all ease-in-out 1.5s;
 	position: relative;
 	top: 0;
-	background: #00a9bb url(http://i.imgur.com/3LzIK2p.png) no-repeat;
+	background: #00a9bb url(https://i.imgur.com/3LzIK2p.png) no-repeat;
 	background-size: 35%;
 	background-position: -35px;
 	max-width: 300px;
@@ -1444,11 +1444,11 @@
 /*rotom*/
 #rotom-dex {
 	position: relative;
-    background: url(http://i.imgur.com/a8NjO9h.png) center #6cafcc;
+    background: url(https://i.imgur.com/a8NjO9h.png) center #6cafcc;
     background-size:100%;
 }
 .dex-top {
-    background: url(&#39;http://i.imgur.com/8CRL0D9.png&#39;) bottom center no-repeat;
+    background: url(https://i.imgur.com/8CRL0D9.png) bottom center no-repeat;
     background-size:100%;
     top: -27px;
 }
@@ -1499,7 +1499,7 @@
     height: auto;
     padding-top: 0px;
 }
-.left &gt; .item-menu-dex,.right &gt; .item-menu-dex {
+.left > .item-menu-dex,.right > .item-menu-dex {
     left: 0px;
     background-size: contain;
     background-position: 14px 0;
